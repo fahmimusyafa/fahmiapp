@@ -9,7 +9,7 @@ import datalogicImage from "@/assets/img/Macbook-Air-datalogic-vps.ethos.co.id.w
 import ssrImage from "@/assets/img/Macbook-Air-ssr-itdev.ethos.co.id.webp";
 import twentyMefreeAdminImage from "@/assets/img/Macbook-Air-20mefree-prod-cms.ethos.co.id.webp";
 import twentyMefreeLandingImage from "@/assets/img/Macbook-Air-20mefree.id.webp";
-import keepointImage from "@/assets/img/Macbook-Air-keepoint.webp";
+import keepointImage from "@/assets/img/Macbook-Air-Keepoint.webp";
 
 const projectImages: Record<ProjectImageKey, StaticImageData> = {
   bridge: bridgeImage,
